@@ -5,6 +5,7 @@
 스터디/프로젝트 모집 사이트에 오신 것을 환영합니다😍 구인 글을 등록하고 팀원을 모집하세요 !
 
 [링크](https://everypjec.vercel.app/)
+[시연 영상] (https://youtu.be/K1YT4FQeO_U)
 
 <br>
 
